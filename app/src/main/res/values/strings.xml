@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">quizApp</string>
+         <string name="title">Quiz for Kingdergraten student</string>
+        <string name="question_one">Solve the addition problem. 12+13=?</string>
+        <string name="question_one_a">25</string>
+        <string name="question_one_b">24</string>
+        <string name="question_one_c">26</string>
+        <string name="question_one_d">27</string>
+        <string name="question_two">which are result equal to 6?</string>
+    <string name="question_two_a">5+1</string>
+    <string name="question_two_b">3+3</string>
+    <string name="question_two_c">2+2</string>
+    <string name="question_two_d">1+4</string>
+    <string name="question_three">How many letters are in the alphabet</string>
+    <string name="question_three_a">26</string>
+    <string name="question_three_b">24</string>
+    <string name="question_three_c">20</string>
+    <string name="question_three_d">27</string>
+
+    <string name="question_four">Which number comes next? 20   21  ____</string>
+    <string name="question_four_a">22</string>
+    <string name="question_four_b">23</string>
+    <string name="question_four_c">20</string>
+    <string name="question_four_d">26</string>
+
+    <string name="submit">submit</string>
+</resources>
